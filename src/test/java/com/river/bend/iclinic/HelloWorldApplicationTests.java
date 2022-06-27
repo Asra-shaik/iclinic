@@ -1,9 +1,10 @@
-package com.example.helloworld;
+package com.river.bend.iclinic;
 
-import com.example.helloworld.controller.HelloWorldController;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
+
+import com.river.bend.iclinic.controller.HelloWorldController;
 
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 

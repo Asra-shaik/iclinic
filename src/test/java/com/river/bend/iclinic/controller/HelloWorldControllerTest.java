@@ -1,4 +1,4 @@
-package com.example.helloworld.controller;
+package com.river.bend.iclinic.controller;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
